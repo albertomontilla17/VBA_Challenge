@@ -17,8 +17,8 @@ Steve needs our help to invest in the stock market and thanks to VBA we are able
 
 In the All stocks Analysis we can see 2 buttons where we can run the analysis for the year 2017 or 2018
 
-[https://github.com/albertomontilla17/VBA_Challenge/blob/main/VBA_Challenge_2017.png]
-https://github.com/albertomontilla17/VBA_Challenge/blob/main/VBA_Challenge_2018.png
+![VBA_Challenge_2017](https://github.com/albertomontilla17/VBA_Challenge/blob/main/VBA_Challenge_2017.png)
+![VBA_CHallenge_2018](https://github.com/albertomontilla17/VBA_Challenge/blob/main/VBA_Challenge_2018.png)
 ## SUMMARY
 
 **1. What are the advantages or disadvantages of refactoring code?**
